@@ -2,7 +2,7 @@
 
 Create funny Thanksgiving Mad Libs through command line
 
-Here are the steps to starting your own game of Connect Four: 1) Download the Python file from https://github.com/JKayse/Connect-Four-Command-Line
+Here are the steps to starting your own game of Connect Four: 1) Download the Python file from https://github.com/JKayse/ThanksgivingMadLibGenerator/
 
 2) Install Python a. Mac computers automatically come with Python installed to check this, type python in terminal. b. If you do not have Python, go to https://www.python.org/downloads/ and install the latest version of Python. This can be done for Windows, Mac OS, or Linux operating systems.
 
